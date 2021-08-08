@@ -1,0 +1,42 @@
+[
+  { "type": "IMPORT", "src": "game:data/animations/player-poses.json" },
+  { "type": "ENTER", "index": "namedSheets" },
+
+  { "type": "ENTER", "index": "poses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "poses4dir" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "sideWalk" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "sidePoses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "sidePoses2" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "sleepPoses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "sleepPoses2" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "drill" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "drillSide" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses.png" },
+  { "type": "EXIT" },
+
+  { "type": "EXIT" }
+]

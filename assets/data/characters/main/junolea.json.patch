@@ -1,0 +1,17 @@
+[
+  { "type": "IMPORT", "src": "game:data/characters/main/lea.json" },
+
+  { "type": "SET_KEY", "index": "animSheet", "content": "junolea" },
+
+  { "type": "ENTER", "index": "face" },
+
+  { "type": "ENTER", "index": "subImages" },
+  { "type": "SET_KEY", "index": "panic", "content": "junolea-panic.png" },
+  { "type": "SET_KEY", "index": "special", "content": "junolea-special.png" },
+  { "type": "SET_KEY", "index": "hand", "content": "junolea-hand.png" },
+  { "type": "EXIT" },
+
+  { "type": "SET_KEY", "index": "src", "content": "junolea.png" },
+
+  { "type": "EXIT" }
+]

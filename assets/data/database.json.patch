@@ -1,0 +1,37 @@
+[
+  { "type": "INIT_KEY", "index": "playerSkins", "content": {} },
+  { "type": "ENTER", "index": "playerSkins" },
+  {
+    "type": "SET_KEY",
+    "index": "junolea",
+    "content": {
+      "id": "junolea",
+      "item": { "jsonINSTANCE": "customItem.junolea" },
+      "autoAdd": true,
+      "type": "Appearance",
+      "settings": {
+        "sheet": "player-skins.junolea",
+        "fx": "skins.junolea",
+        "gui": "junolea.png",
+        "noHide": true,
+        "character": "main.junolea",
+        "img": {
+          "media/map/baked/lea-bakii-kum.png": "media/map/baked/lea-bakii-kum-junolea.png",
+          "media/map/baked/lea-ctron-bakii-kum.png": "media/map/baked/lea-ctron-bakii-kum-junolea.png",
+          "media/map/baked/lea-server.png": "media/map/baked/lea-server-junolea.png",
+          "media/map/baked/the-room-conversation-clear.png": "media/map/baked/the-room-conversation-clear-junolea.png",
+          "media/map/baked/the-room-conversation-shelf.png": "media/map/baked/the-room-conversation-shelf-junolea.png",
+          "media/map/baked/tree-top-ctron.png": "media/map/baked/tree-top-ctron-junolea.png"
+        }
+      }
+    }
+  },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": ["toggle-sets", "skins", "items"] },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": { "jsonINSTANCE": "customItem.junolea" }
+  },
+  { "type": "EXIT", "count": 3 }
+]

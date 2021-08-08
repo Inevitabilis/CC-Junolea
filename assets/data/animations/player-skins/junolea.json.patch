@@ -1,0 +1,38 @@
+[
+  { "type": "IMPORT", "src": "game:data/animations/player.json" },
+  { "type": "ENTER", "index": "namedSheets" },
+
+  { "type": "ENTER", "index": "walk" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "walk2" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "walk3" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "poses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "itemPoses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "idlePoses" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "throw" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-throw.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "special" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-throw.png" },
+  { "type": "EXIT" },
+
+  { "type": "EXIT" }
+]

@@ -1,0 +1,10 @@
+[
+  { "type": "IMPORT", "src": "game:data/animations/player-weak.json" },
+  { "type": "ENTER", "index": "namedSheets" },
+
+  { "type": "ENTER", "index": "walk" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-move-weak.png" },
+  { "type": "EXIT" },
+
+  { "type": "EXIT" }
+]

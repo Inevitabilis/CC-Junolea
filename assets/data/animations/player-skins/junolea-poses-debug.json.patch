@@ -1,0 +1,10 @@
+[
+  { "type": "IMPORT", "src": "game:data/animations/player-poses-debug.json" },
+  { "type": "ENTER", "index": "namedSheets" },
+
+  { "type": "ENTER", "index": "debug" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-poses-debug.png" },
+  { "type": "EXIT" },
+
+  { "type": "EXIT" }
+]

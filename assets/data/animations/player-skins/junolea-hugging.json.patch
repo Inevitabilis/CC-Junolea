@@ -1,0 +1,42 @@
+[
+  { "type": "IMPORT", "src": "game:data/animations/player-hugging.json" },
+  { "type": "ENTER", "index": "namedSheets" },
+
+  { "type": "ENTER", "index": "schneider1" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "schneider2" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "schneider3" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "emilie1" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "ctron1" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "apollo1" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "mixed" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "mixed2" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "ENTER", "index": "mixed3" },
+  { "type": "SET_KEY", "index": "src", "content": "media/entity/player/junolea-hugging.png" },
+  { "type": "EXIT" },
+
+  { "type": "EXIT" }
+]
