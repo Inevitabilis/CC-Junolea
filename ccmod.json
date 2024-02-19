@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "title": "Junolea Skin",
   "description": "Adds a skin which makes Lea look like Juno",
-  "license": "CC-BY-4.0",
-  "homepage": "https://github.com/Inevitabilis/CC-Junolea",
+  "repository": "https://github.com/Inevitabilis/CC-Junolea",
+  "tags": ["cosmetic"],
+  "authors": ["Inevitabilis", "dmitmel"],
   "icons": {
     "24": "icon24.png"
   },
