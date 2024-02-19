@@ -5,7 +5,7 @@
   "description": "Adds a skin which makes Lea look like Juno",
   "repository": "https://github.com/Inevitabilis/CC-Junolea",
   "tags": ["cosmetic"],
-  "authors": "Inevitabilis",
+  "authors": ["Inevitabilis", "dmitmel"],
   "icons": {
     "24": "icon24.png"
   },
